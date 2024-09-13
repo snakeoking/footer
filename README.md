@@ -1,8 +1,9 @@
-# Heading lvl 1
-## Heading level 2
-### Heading level 3
-hello this is paragraph
-'''
+# Footer
+## Html
+html used in this is good
+## Css
+hello this is paragraph. css also good
+"""
 git init
 git commit
-'''
+"""
